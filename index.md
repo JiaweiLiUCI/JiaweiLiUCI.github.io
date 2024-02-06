@@ -4,11 +4,9 @@ layout: page
 
 # About Me
 
-<img src="https://jiaweiliuci.github.io/Jiawei.png" class="floatpic" width="360" height="480">
+<img src="https://jiaweiliuci.github.io/Jiawei.png" class="floatpic" width="300" height="400">
 
-Here is **Jiawei Li (李嘉伟)**.
-
-Jiawei Li (李嘉伟) is a Software Engineering Ph.D. candidate at [University of California, Irvine](https://uci.edu/), supervised by Dr. [Iftekhar Ahmed](https://ics.uci.edu/~iftekha/) at [STAIRS lab](https://stairs.ics.uci.edu/). He received his [Master's degree](https://mcs.ics.uci.edu/) in Computer Science at [University of California, Irvine](https://uci.edu/), and his Bachelor's degree in Software Engineering at [Xi'an Jiaotong University](http://en.xjtu.edu.cn/).
+**Jiawei Li (李嘉伟)** is a Software Engineering Ph.D. candidate at [University of California, Irvine](https://uci.edu/), supervised by Dr. [Iftekhar Ahmed](https://ics.uci.edu/~iftekha/) at [STAIRS lab](https://stairs.ics.uci.edu/). He received his [Master's degree](https://mcs.ics.uci.edu/) in Computer Science at [University of California, Irvine](https://uci.edu/), and his Bachelor's degree in Software Engineering at [Xi'an Jiaotong University](http://en.xjtu.edu.cn/).
 
 
 

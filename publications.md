@@ -8,7 +8,7 @@ title: Publications
 
 ## Papers
 
-- [Only diff is Not Enough: Generating Commit Messages Leveraging Reasoning and Action of Large Language Model]() (Stay tuned for pre-print) **Jiawei Li**, David Farago, Christian Petrov, Iftekhar Ahmed<br>The ACM International Conference on the Foundations of Software Engineering 2024 (FSE)<br> Porto de Galinhas, Brazil. July, 2024
+- [Only diff is Not Enough: Generating Commit Messages Leveraging Reasoning and Action of Large Language Model]() (Stay tuned for pre-print) **Jiawei Li**, David Farago, Christian Petrov, Iftekhar Ahmed<br>The ACM International Conference on the Foundations of Software Engineering 2024 (FSE)<br> Porto de Galinhas, Brazil, 2024
 
 - [Commit Message Matters: Investigating Impact and Evolution of Commit Message Quality](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10172825) **Jiawei Li**,  Iftekhar Ahmed<br> 2023 IEEE/ACM 45th International Conference on Software Engineering (ICSE)<br>Melbourne, Australia, 2023
 
