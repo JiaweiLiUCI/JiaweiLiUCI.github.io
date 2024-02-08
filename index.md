@@ -12,8 +12,7 @@ layout: page
 
 ## Research Interests
 
-- Commit message quality evaluation
-- Commit message generation
+- Commit message quality evaluation and generation
 - Test smell detection and refactoring
 - Code review automation
 - Defect prediction
