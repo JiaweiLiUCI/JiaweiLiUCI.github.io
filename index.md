@@ -13,13 +13,14 @@ layout: page
 ## Research Interests
 
 - Commit message quality evaluation and generation
-- Test smell detection and refactoring
+- Test smell detection and analysis
+- AI-generated source code detection
 - Code review automation
 - Defect prediction
 - Machine learning
 - Large language models
 
-His research interests mainly lie in the application of **machine learning** and **large language models** to the automation of **Software Engineering-related tasks** such as commit message quality evaluation, commit message generation, test smell detection, defect prediction and more. 
+His research interests mainly lie in the application of **machine learning** and **large language models** to the automation of **Software Engineering-related tasks** such as commit message quality evaluation, commit message generation, AI-generated code detection, defect prediction and more. 
 
 <br>
 

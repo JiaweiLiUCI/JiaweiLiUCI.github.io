@@ -4,15 +4,21 @@ permalink: /publications/index.html
 title: Publications
 ---
 
-> Lastest Update: 5th Feb 2024&nbsp;
+> Lastest Update: 4th Nov 2024&nbsp;
 
 ## Papers
 
-- [Only diff is Not Enough: Generating Commit Messages Leveraging Reasoning and Action of Large Language Model]() (Stay tuned for pre-print) <br> **Jiawei Li**, David Farago, Christian Petrov, Iftekhar Ahmed <br> <i> The ACM International Conference on the Foundations of Software Engineering 2024 (FSE) </i> 
+- [An Empirical Study on Automatically Detecting AI-Generated Source Code: How Far Are We?]() (Stay tuned for pre-print) <br> Hyunjae Suh, Mahan Tafreshipour, **Jiawei Li**, Adithya Bhattiprolu, Iftekhar Ahmed <br> <i> 2025 IEEE/ACM 47th International Conference on Software Engineering (ICSE) </i>
+
+- [Only diff is Not Enough: Generating Commit Messages Leveraging Reasoning and Action of Large Language Model](https://dl.acm.org/doi/pdf/10.1145/3643760) <br> **Jiawei Li**, David Farago, Christian Petrov, Iftekhar Ahmed <br> <i> The ACM International Conference on the Foundations of Software Engineering 2024 (FSE) </i> <br> ACM SIGSOFT Distinguished Paper Award <br>
 
 - [Commit Message Matters: Investigating Impact and Evolution of Commit Message Quality](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10172825) <br> **Jiawei Li**,  Iftekhar Ahmed <br> <i> 2023 IEEE/ACM 45th International Conference on Software Engineering (ICSE) </i>
 
 - [Test Smell: A Parasitic Energy Consumer in Software Testing](https://arxiv.org/pdf/2310.14548.pdf) <br> Md Rakib Hossain Misu, **Jiawei Li**, Adithya Bhattiprolu, Yang Liu, Eduardo Almeida, Iftekhar Ahmed <br> <i> arXiv preprint arXiv:2310.14548 </i>
+
+- [Does the Order of Fine-tuning Matter and Why?](https://arxiv.org/pdf/2410.02915) <br> Qihong Chen, **Jiawei Li (Equal Contribution)**, Hyunjae Suh, Lianghao Jiang, Zheng Zhou, Jingze Chen, Jiri Gesi, Iftekhar Ahmed <br> <i> arXiv preprint arXiv:2410.02915 </i>
+
+- [Automated Repair of Declarative Software Specifications in the Era of Large Language Models](https://arxiv.org/pdf/2310.12425) <br> Md Rashedul Hasan, **Jiawei Li**, Iftekhar Ahmed, Hamid Bagheri <br> <i> arXiv preprint arXiv:2310.12425 </i>
 
 - [Code Smells in Machine Learning Systems](https://arxiv.org/pdf/2203.00803.pdf) <br> Jiri Gesi, Siqi Liu, **Jiawei Li**, Iftekhar Ahmed, Nachiappan Nagappan, David Lo, Eduardo Santana de Almeida, Pavneet Singh Kochhar, Lingfeng Bao <br> <i> arXiv preprint arXiv:2203.00803 </i>
 
