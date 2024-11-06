@@ -12,6 +12,8 @@ title: Publications
 
 - [Only diff is Not Enough: Generating Commit Messages Leveraging Reasoning and Action of Large Language Model](https://dl.acm.org/doi/pdf/10.1145/3643760) <br> **Jiawei Li**, David Farago, Christian Petrov, Iftekhar Ahmed <br> <i> The ACM International Conference on the Foundations of Software Engineering 2024 (FSE) </i> <br> **ACM SIGSOFT Distinguished Paper Award** <br>
 
+- [A Deep Dive Into Large Language Model Code Generation Mistakes: What and Why?](https://arxiv.org/pdf/2411.01414) <br> Qihong Chen, **Jiawei Li**, Jiecheng Deng, Jiachen Yu, Justin Tian Jin Chen, Iftekhar Ahmed <br> <i> arXiv preprint arXiv:2411.01414 </i>
+
 - [Commit Message Matters: Investigating Impact and Evolution of Commit Message Quality](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10172825) <br> **Jiawei Li**,  Iftekhar Ahmed <br> <i> 2023 IEEE/ACM 45th International Conference on Software Engineering (ICSE) </i>
 
 - [Test Smell: A Parasitic Energy Consumer in Software Testing](https://arxiv.org/pdf/2310.14548.pdf) <br> Md Rakib Hossain Misu, **Jiawei Li**, Adithya Bhattiprolu, Yang Liu, Eduardo Almeida, Iftekhar Ahmed <br> <i> arXiv preprint arXiv:2310.14548 </i>
