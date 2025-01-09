@@ -4,9 +4,11 @@ permalink: /publications/index.html
 title: Publications
 ---
 
-> Lastest Update: 4th Nov 2024&nbsp;
+> Lastest Update: 9th Jan 2025&nbsp;
 
 ## Papers
+
+- [Test Smell: A Parasitic Energy Consumer in Software Testing](https://arxiv.org/pdf/2310.14548.pdf) <br> Md Rakib Hossain Misu, **Jiawei Li**, Adithya Bhattiprolu, Yang Liu, Eduardo Almeida, Iftekhar Ahmed <br> <i> Information and Software Technology </i>
 
 - [An Empirical Study on Automatically Detecting AI-Generated Source Code: How Far Are We?](https://arxiv.org/pdf/2411.04299) <br> Hyunjae Suh, Mahan Tafreshipour, **Jiawei Li**, Adithya Bhattiprolu, Iftekhar Ahmed <br> <i> 2025 IEEE/ACM 47th International Conference on Software Engineering (ICSE) </i>
 
@@ -15,8 +17,6 @@ title: Publications
 - [A Deep Dive Into Large Language Model Code Generation Mistakes: What and Why?](https://arxiv.org/pdf/2411.01414) <br> Qihong Chen, **Jiawei Li**, Jiecheng Deng, Jiachen Yu, Justin Tian Jin Chen, Iftekhar Ahmed <br> <i> arXiv preprint arXiv:2411.01414 </i>
 
 - [Commit Message Matters: Investigating Impact and Evolution of Commit Message Quality](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10172825) <br> **Jiawei Li**,  Iftekhar Ahmed <br> <i> 2023 IEEE/ACM 45th International Conference on Software Engineering (ICSE) </i>
-
-- [Test Smell: A Parasitic Energy Consumer in Software Testing](https://arxiv.org/pdf/2310.14548.pdf) <br> Md Rakib Hossain Misu, **Jiawei Li**, Adithya Bhattiprolu, Yang Liu, Eduardo Almeida, Iftekhar Ahmed <br> <i> arXiv preprint arXiv:2310.14548 </i>
 
 - [Does the Order of Fine-tuning Matter and Why?](https://arxiv.org/pdf/2410.02915) <br> Qihong Chen, **Jiawei Li (Equal Contribution)**, Hyunjae Suh, Lianghao Jiang, Zheng Zhou, Jingze Chen, Jiri Gesi, Iftekhar Ahmed <br> <i> arXiv preprint arXiv:2410.02915 </i>
 
