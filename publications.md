@@ -4,7 +4,7 @@ permalink: /publications/index.html
 title: Publications
 ---
 
-> Lastest Update: 9th Jan 2025&nbsp;
+> Lastest Update: 9th Feb 2025&nbsp;
 
 ## Papers
 
@@ -13,6 +13,8 @@ title: Publications
 - [An Empirical Study on Automatically Detecting AI-Generated Source Code: How Far Are We?](https://arxiv.org/pdf/2411.04299) <br> Hyunjae Suh, Mahan Tafreshipour, **Jiawei Li**, Adithya Bhattiprolu, Iftekhar Ahmed <br> <i> 2025 IEEE/ACM 47th International Conference on Software Engineering (ICSE) </i>
 
 - [Only diff is Not Enough: Generating Commit Messages Leveraging Reasoning and Action of Large Language Model](https://dl.acm.org/doi/pdf/10.1145/3643760) <br> **Jiawei Li**, David Farago, Christian Petrov, Iftekhar Ahmed <br> <i> The ACM International Conference on the Foundations of Software Engineering 2024 (FSE) </i> <br> **ACM SIGSOFT Distinguished Paper Award** <br>
+
+- [Optimization is Better than Generation: Optimizing Commit Message Leveraging Human-written Commit Message](https://arxiv.org/pdf/2501.09861) <br> **Jiawei Li**, David Farago, Christian Petrov, Iftekhar Ahmed <br> <i> arXiv preprint arXiv:2501.09861 </i>
 
 - [A Deep Dive Into Large Language Model Code Generation Mistakes: What and Why?](https://arxiv.org/pdf/2411.01414) <br> Qihong Chen, **Jiawei Li**, Jiecheng Deng, Jiachen Yu, Justin Tian Jin Chen, Iftekhar Ahmed <br> <i> arXiv preprint arXiv:2411.01414 </i>
 
