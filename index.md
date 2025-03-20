@@ -13,6 +13,7 @@ layout: page
 - Commit message quality evaluation and generation
 - Test smell detection and analysis
 - AI-generated source code detection
+- Multi-LLM based agents for Software Engineering
 - Code review automation
 - Defect prediction
 - Machine learning

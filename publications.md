@@ -4,7 +4,7 @@ permalink: /publications/index.html
 title: Publications
 ---
 
-> Lastest Update: 9th Feb 2025&nbsp;
+> Lastest Update: 20th Mar 2025&nbsp;
 
 ## Papers
 
@@ -14,7 +14,9 @@ title: Publications
 
 - [Only diff is Not Enough: Generating Commit Messages Leveraging Reasoning and Action of Large Language Model](https://dl.acm.org/doi/pdf/10.1145/3643760) <br> **Jiawei Li**, David Farago, Christian Petrov, Iftekhar Ahmed <br> <i> The ACM International Conference on the Foundations of Software Engineering 2024 (FSE) </i> <br> **ACM SIGSOFT Distinguished Paper Award** <br>
 
-- [Optimization is Better than Generation: Optimizing Commit Message Leveraging Human-written Commit Message](https://arxiv.org/pdf/2501.09861) <br> **Jiawei Li**, David Farago, Christian Petrov, Iftekhar Ahmed <br> <i> arXiv preprint arXiv:2501.09861 </i>
+- [Is Multi-Agent Debate (MAD) the Silver Bullet? An Empirical Analysis of MAD in Code Summarization and Translation](https://arxiv.org/abs/2503.12029) <br> Jina Chun, Qihong Chen, **Jiawei Li**, Iftekhar Ahmed <br> <i> arXiv preprint arXiv:2503.12029 </i>
+
+- [Consider What Humans Consider: Optimizing Commit Message Leveraging Contexts Considered By Human](https://arxiv.org/abs/2503.11960) <br> **Jiawei Li**, David Farago, Christian Petrov, Iftekhar Ahmed <br> <i> arXiv preprint arXiv:2503.11960v2 </i>
 
 - [A Deep Dive Into Large Language Model Code Generation Mistakes: What and Why?](https://arxiv.org/pdf/2411.01414) <br> Qihong Chen, **Jiawei Li**, Jiecheng Deng, Jiachen Yu, Justin Tian Jin Chen, Iftekhar Ahmed <br> <i> arXiv preprint arXiv:2411.01414 </i>
 
