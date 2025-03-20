@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f920e74b-b2c1-48b2-9d1a-c9834de4255b" name="Changes" comment="instagram, CV, delete photo, and hobbies">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="f920e74b-b2c1-48b2-9d1a-c9834de4255b" name="Changes" comment="post-ICSE 2026 update" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -208,7 +206,14 @@
       <option name="project" value="LOCAL" />
       <updated>1739742240327</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="post-ICSE 2026 update">
+      <created>1742500357055</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1742500357055</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -237,6 +242,7 @@
     <MESSAGE value="paper AI detector update" />
     <MESSAGE value="CV and publication update for the IST paper (test smell)" />
     <MESSAGE value="instagram, CV, delete photo, and hobbies" />
-    <option name="LAST_COMMIT_MESSAGE" value="instagram, CV, delete photo, and hobbies" />
+    <MESSAGE value="post-ICSE 2026 update" />
+    <option name="LAST_COMMIT_MESSAGE" value="post-ICSE 2026 update" />
   </component>
 </project>
