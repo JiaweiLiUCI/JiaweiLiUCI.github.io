@@ -6,6 +6,8 @@ layout: page
 
 **Jiawei Li (李嘉伟)** is a Software Engineering Ph.D. candidate at [University of California, Irvine](https://uci.edu/), supervised by Dr. [Iftekhar Ahmed](https://ics.uci.edu/~iftekha/) at [STAIRS lab](https://stairs.ics.uci.edu/). He received his [Master's degree](https://mcs.ics.uci.edu/) in Computer Science at [University of California, Irvine](https://uci.edu/), and his Bachelor's degree in Software Engineering at [Xi'an Jiaotong University](http://en.xjtu.edu.cn/).
 
+**Summer 2025**: He is currently interning as an Applied scientist at Amazon.com Inc. in Seattle. 
+
 
 
 ## Research Interests
@@ -26,7 +28,7 @@ His research interests mainly lie in the application of **machine learning** and
 - Passion: Karate
 - Musical instrument i.e., finger style guitar
 
-He is extremely passionate about Martial Arts such as Karate and Taekwondo, please feel free to DM him on instagram if you have the same passion.
+He is extremely passionate about Martial Arts such as Karate and Taekwondo.
 
 <br>
 
