@@ -23,6 +23,16 @@ layout: page
 
 His research interests mainly lie in the application of **machine learning** and **large language models** to the automation of **Software Engineering-related tasks** such as commit message quality evaluation, commit message generation, AI-generated code detection, defect prediction and more. 
 
+## Services
+
+- Reviewer (Full length technical paper), Automated Software Engineering
+- Shadow Research Track Program Committee Member, 2026 48th IEEE/ACM International Conference on Software Engineering (ICSE)
+- Reviewer (Full length technical paper), IEEE Transactions on Reliability
+- Shadow Research Track Program Committee Member, 2025 47th IEEE/ACM International Conference on Software Engineering (ICSE)
+- Program Committee Member (Artifact Evaluation), 2025 47th IEEE/ACM International Conference on Software Engineering (ICSE)
+- Reviewer (Full length technical paper), Transactions on Software Engineering and Methodology (TOSEM)
+- Graduate Mentor, Global Research Experience in Artificial inTelligence (GREAT) Program
+
 ## Hobbies
 
 - Passion: Karate

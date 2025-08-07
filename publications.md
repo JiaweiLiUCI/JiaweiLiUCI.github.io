@@ -16,6 +16,8 @@ title: Publications
 
 - [Is Multi-Agent Debate (MAD) the Silver Bullet? An Empirical Analysis of MAD in Code Summarization and Translation](https://arxiv.org/abs/2503.12029) <br> Jina Chun, Qihong Chen, **Jiawei Li**, Iftekhar Ahmed <br> <i> arXiv preprint arXiv:2503.12029 </i>
 
+- [Which Prompting Technique Should I Use? An Empirical Investigation of Prompting Techniques for Software Engineering Tasks](https://arxiv.org/pdf/2506.05614) <br> Enio Garcia Santana Junior, Gabriel Benjamin, Melissa Araujo, Harrison Santos, David Freitas, Eduardo Almeida, Paulo Anselmo da Mota Silveira Neto, **Jiawei Li**, Jina Chun, Iftekhar Ahmed <br> <i> arXiv preprint arXiv:2506.05614 </i>
+
 - [Consider What Humans Consider: Optimizing Commit Message Leveraging Contexts Considered By Human](https://arxiv.org/abs/2503.11960) <br> **Jiawei Li**, David Farago, Christian Petrov, Iftekhar Ahmed <br> <i> arXiv preprint arXiv:2503.11960v2 </i>
 
 - [A Deep Dive Into Large Language Model Code Generation Mistakes: What and Why?](https://arxiv.org/pdf/2411.01414) <br> Qihong Chen, **Jiawei Li**, Jiecheng Deng, Jiachen Yu, Justin Tian Jin Chen, Iftekhar Ahmed <br> <i> arXiv preprint arXiv:2411.01414 </i>
