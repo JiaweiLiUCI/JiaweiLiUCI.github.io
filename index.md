@@ -25,6 +25,7 @@ His research interests mainly lie in the application of **machine learning** and
 
 ## Services
 
+- Program Committee Member, 2026 International Conference on Evaluation and Assessment in Software Engineering, AI Models/Data track (EASE)
 - Reviewer (Full length technical paper), Automated Software Engineering
 - Reviewer, 2025 15th Berlin Machine Learning Workshop
 - Shadow Research Track Program Committee Member, 2026 48th IEEE/ACM International Conference on Software Engineering (ICSE)
