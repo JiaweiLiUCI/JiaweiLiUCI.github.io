@@ -23,7 +23,9 @@ His research interests mainly lie in the application of **machine learning** and
 
 ## Services
 
+- Program Committee Member, 2026 23rd International Conference on Mining Software Repositories, Junior PC (MSR)
 - Program Committee Member, 2026 International Conference on Evaluation and Assessment in Software Engineering, AI Models/Data track (EASE)
+- Reviewer (Full length technical paper), Empirical Software Engineering
 - Reviewer (Full length technical paper), Automated Software Engineering
 - Reviewer, 2025 15th Berlin Machine Learning Workshop
 - Shadow Research Track Program Committee Member, 2026 48th IEEE/ACM International Conference on Software Engineering (ICSE)
@@ -36,6 +38,8 @@ His research interests mainly lie in the application of **machine learning** and
 ## Industry Experience
 
 - Applied scientist Intern at Amazon.com Inc, 2025 Summer
+  - Designed an automated approach incorporating LLMs, Embedding Models, and Knowledge Graphs to evaluate an agentic LLM-powered chatbot, including its intermediate logic flow and final response.
+  - Designed a heuristic-based LLM-powered approach based on LLM's interpretation confidence to evaluate the quality of the human-written queries.
 
 ## Hobbies
 
