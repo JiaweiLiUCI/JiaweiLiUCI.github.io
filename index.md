@@ -38,7 +38,9 @@ His Doctoral research interests mainly lie in the application of **machine learn
 
 ## Industry Experience
 
-- Applied scientist Intern at Amazon.com Inc, 2025 Summer
+- Applied Scientist II at Amazon.com Inc, 2026 Spring - present (Seattle, WA)
+
+- Applied Scientist Intern at Amazon.com Inc, 2025 Summer
   - Designed an automated approach incorporating LLMs, Embedding Models, and Knowledge Graphs to evaluate an agentic LLM-powered chatbot, including its intermediate logic flow and final response.
   - Designed a heuristic-based LLM-powered approach based on LLM's interpretation confidence to evaluate the quality of the human-written queries.
 
