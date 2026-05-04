@@ -26,7 +26,7 @@ title: Publications
 
 - [Does the Order of Fine-tuning Matter and Why?](https://arxiv.org/pdf/2410.02915) <br> Qihong Chen, **Jiawei Li (Equal Contribution)**, Hyunjae Suh, Lianghao Jiang, Zheng Zhou, Jingze Chen, Jiri Gesi, Iftekhar Ahmed <br> <i> arXiv preprint arXiv:2410.02915 </i>
 
-- [Automated Repair of Declarative Software Specifications in the Era of Large Language Models](https://arxiv.org/pdf/2310.12425) <br> Md Rashedul Hasan, **Jiawei Li**, Iftekhar Ahmed, Hamid Bagheri <br> <i> arXiv preprint arXiv:2310.12425 </i>
+- [Automated Repair of Declarative Software Specifications in the Era of Large Language Models](https://arxiv.org/pdf/2310.12425) <br> Md Rashedul Hasan, **Jiawei Li**, Iftekhar Ahmed, Hamid Bagheri <br> <i> IEEE Transactions on Software Engineering (TSE) </i>
 
 - [Code Smells in Machine Learning Systems](https://arxiv.org/pdf/2203.00803.pdf) <br> Jiri Gesi, Siqi Liu, **Jiawei Li**, Iftekhar Ahmed, Nachiappan Nagappan, David Lo, Eduardo Santana de Almeida, Pavneet Singh Kochhar, Lingfeng Bao <br> <i> arXiv preprint arXiv:2203.00803 </i>
 

@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-**Jiawei Li (李嘉伟)** is a Software Engineering Ph.D. candidate at [University of California, Irvine](https://uci.edu/), supervised by Dr. [Iftekhar Ahmed](https://ics.uci.edu/~iftekha/) at [STAIRS lab](https://stairs.ics.uci.edu/). He received his [Master's degree](https://mcs.ics.uci.edu/) in Computer Science at [University of California, Irvine](https://uci.edu/), and his Bachelor's degree in Software Engineering at [Xi'an Jiaotong University](http://en.xjtu.edu.cn/).
+Dr. **Jiawei Li (李嘉伟)** received his Software Engineering Ph.D. at [University of California, Irvine](https://uci.edu/), supervised by Dr. [Iftekhar Ahmed](https://ics.uci.edu/~iftekha/) at [STAIRS lab](https://stairs.ics.uci.edu/). He received his [Master's degree](https://mcs.ics.uci.edu/) in Computer Science at [University of California, Irvine](https://uci.edu/), and his Bachelor's degree in Software Engineering at [Xi'an Jiaotong University](http://en.xjtu.edu.cn/). He is currently an Applied Scientist in Amazon Customer Services. 
 
 
 
@@ -19,10 +19,11 @@ layout: page
 - Machine learning
 - Large language models
 
-His research interests mainly lie in the application of **machine learning** and **large language models** to the automation of **Software Engineering-related tasks** such as commit message quality evaluation, commit message generation, AI-generated code detection, defect prediction and more. 
+His Doctoral research interests mainly lie in the application of **machine learning** and **large language models** to the automation of **Software Engineering-related tasks** such as commit message quality evaluation, commit message generation, AI-generated code detection, defect prediction and more. 
 
 ## Services
 
+- Program Committee Member, the New Ideas and Emerging Results track of the 41st IEEE/ACM International Conference on Automated Software Engineering (ASE 2026 NIER)
 - Program Committee Member, 2026 23rd International Conference on Mining Software Repositories, Junior PC (MSR)
 - Program Committee Member, 2026 International Conference on Evaluation and Assessment in Software Engineering, AI Models/Data track (EASE)
 - Reviewer (Full length technical paper), Empirical Software Engineering
