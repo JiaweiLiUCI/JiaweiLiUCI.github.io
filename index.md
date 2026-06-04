@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-Dr. **Jiawei Li (李嘉伟)** received his Software Engineering Ph.D. at [University of California, Irvine](https://uci.edu/), supervised by Dr. [Iftekhar Ahmed](https://ics.uci.edu/~iftekha/) at [STAIRS lab](https://stairs.ics.uci.edu/). He received his [Master's degree](https://mcs.ics.uci.edu/) in Computer Science at [University of California, Irvine](https://uci.edu/), and his Bachelor's degree in Software Engineering at [Xi'an Jiaotong University](http://en.xjtu.edu.cn/). He is currently an Applied Scientist in Amazon Customer Services. 
+Dr. **Jiawei Li (李嘉伟)** received his Software Engineering Ph.D. at [University of California, Irvine](https://uci.edu/), supervised by Dr. [Iftekhar Ahmed](https://ics.uci.edu/~iftekha/) at [STAIRS lab](https://stairs.ics.uci.edu/). He received his [Master's degree](https://mcs.ics.uci.edu/) in Computer Science at [University of California, Irvine](https://uci.edu/), and his Bachelor's degree in Software Engineering at [Xi'an Jiaotong University](http://en.xjtu.edu.cn/). He is currently an Applied Scientist on Amazon Customer Services Data Intelligence AI team. 
 
 
 
@@ -47,9 +47,8 @@ His Doctoral research interests mainly lie in the application of **machine learn
 ## Hobbies
 
 - Passion: Karate
-- Finger Style Guitar
-
-He is extremely passionate about Martial Arts such as Karate and Taekwondo.
+- Guitar, Violin, Piano
+- Rock Climbing, Pilates, Hiking, Surfing
 
 <br>
 
