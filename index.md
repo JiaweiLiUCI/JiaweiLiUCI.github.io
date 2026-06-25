@@ -23,6 +23,7 @@ His Doctoral research interests mainly lie in the application of **machine learn
 
 ## Services
 
+- Reviewer (Regular (Journal First)), IEEE Transactions on Software Engineering (TSE)
 - Program Committee Member, the New Ideas and Emerging Results track of the 41st IEEE/ACM International Conference on Automated Software Engineering (ASE 2026 NIER)
 - Program Committee Member, 2026 23rd International Conference on Mining Software Repositories, Junior PC (MSR)
 - Program Committee Member, 2026 International Conference on Evaluation and Assessment in Software Engineering, AI Models/Data track (EASE)
